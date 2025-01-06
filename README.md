@@ -1,7 +1,7 @@
 # Stock-Price-Prediction-Using-Sentiment-Analysis
 
 ## Overview
-This project explores the exciting intersection of **financial markets** and **natural language processing (NLP)** by predicting stock prices using **sentiment analysis**. The goal is to enhance traditional stock price forecasting models by incorporating **public sentiment** from news headlines and social media posts. By analyzing Tesla's stock prices alongside sentiment data, we aim to uncover how market emotions influence stock movements.
+This project explores the exciting intersection of **financial markets** and **natural language processing (NLP)** by predicting stock prices using **sentiment analysis**. The goal is to enhance traditional stock price forecasting models by incorporating **public sentiment** from news headlines and social media posts. By analyzing Tesla's stock prices alongside sentiment data, we aim to uncover how market emotions influence stock Prices.
 
 Financial markets are volatile, and stock prices are driven not just by numbers but also by **investor sentiment**. This project integrates sentiment analysis into **time-series forecasting models** to capture both numerical trends and qualitative market signals.
 
