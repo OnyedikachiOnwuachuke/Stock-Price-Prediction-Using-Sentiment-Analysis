@@ -5,7 +5,7 @@ This project explores the exciting intersection of **financial markets** and **n
 
 Financial markets are volatile, and stock prices are driven not just by numbers but also by **investor sentiment**. This project integrates sentiment analysis into **time-series forecasting models** to capture both numerical trends and qualitative market signals.
 
-![My Remote Image](https://media.istockphoto.com/id/1213159713/photo/big-data-technology-for-business-finance-concept.jpg?s=1024x1024&w=is&k=20&c=XqsX7eWf-LItwYuJfZ152iX6OnbxuLWRSNbSjrKCz5A=)
+![My Remote Image](https://media.istockphoto.com/id/1213159713/photo/big-data-technology-for-business-finance-concept.jpg?s=612x612&w=0&k=20&c=sZoxuI157HtA8sEYvrX_FtxMCC24WxhMADZBlLd1les=)
 
 ## Models Used
 To achieve accurate stock price predictions, we implemented three machine learning models, each offering unique strengths:
